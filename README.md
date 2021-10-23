@@ -36,7 +36,7 @@ xinput set-prop id "libinput Button Scrolling Button" 2
 ```
 
 In the above commands, you would need to replace 'id' in the above two commands.
-Copy the below script and name it as 'filename.sh'. 
+Copy the below script and name it as 'filename.sh'. I named it autoscroller.sh and you can get the file from the repository.
 ```
 #!/bin/bash
 xinput set-prop 23 "libinput Scroll Method Enabled" 0, 0, 1
