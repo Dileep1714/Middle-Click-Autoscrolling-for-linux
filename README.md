@@ -26,7 +26,7 @@ The output should be something like this:
 ![xinput output](https://raw.githubusercontent.com/Dileep1714/Autoscrolling-for-linux/main/Xinput%20output.jpg)
 
 In my case, my mouse is recognised as Gaming Mouse and its id is 23.
-### Note: The id of your mouse may change when you disconnect the mouse
+Note: The id of your mouse may change when you disconnect the mouse
 
 Now you will need to type in the following commands:
 ```
